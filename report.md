@@ -33,6 +33,23 @@ Here are some screenshots while debugging.
 - Trace the stack to see which parameter causes the error
 ![Trace the stack](./screenshots/lab1/03.png)
 
+## lab2
+
+Here are some screenshots while debugging.
+
+- Start debugging
+![Start debugging](./screenshots/lab2/01.png)
+
+- After user input, the execution flow stops immediately at the next line of code
+![After user input](./screenshots/lab2/02.png)
+
+- When user enters a wrong password
+![Code branch when invalid password](./screenshots/lab2/03.png)
+
+- When user enters the valid password
+![Code branch when valid password](./screenshots/lab2/04.png)
+
+Note: Apple has not supported quite well for LLDB so I have to switch to Ubuntu on a virtual machine to continue on this assignment. 
 
 ## Sources
 
